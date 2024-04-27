@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641512931 source:c:\users\aruna\downloads\challengerectangle\main.c
+	<stdio.h>
+	<stdlib.h>
+
